@@ -1,0 +1,6 @@
+[
+  { "code": "ADMINFIGHT", "reward": "2x EXP", "isActive": true },
+  { "code": "GIFTING_HOURS", "reward": "2x EXP", "isActive": true },
+  { "code": "NOMOREHACK", "reward": "Stat Reset", "isActive": true },
+  { "code": "KITT_RESET", "reward": "Stat Reset", "isActive": false }
+]
