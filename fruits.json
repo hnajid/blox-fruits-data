@@ -1,0 +1,7 @@
+[
+  { "name": "Kitsune", "value": 130000000, "imageName": "kitsune" },
+  { "name": "Leopard", "value": 45000000, "imageName": "leopard" },
+  { "name": "Dragon", "value": 90000000, "imageName": "dragon" },
+  { "name": "Dough", "value": 30000000, "imageName": "dough" },
+  { "name": "Buddha", "value": 7000000, "imageName": "buddha" }
+]
