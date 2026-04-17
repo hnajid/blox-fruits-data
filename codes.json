@@ -1,6 +1,15 @@
 [
-  { "code": "ADMINFIGHT", "reward": "2x EXP", "isActive": true },
-  { "code": "GIFTING_HOURS", "reward": "2x EXP", "isActive": true },
+  { "code": "ADMINFIGHT", "reward": "2x EXP (20 min)", "isActive": true },
+  { "code": "GIFTING_HOURS", "reward": "2x EXP (20 min)", "isActive": true },
   { "code": "NOMOREHACK", "reward": "Stat Reset", "isActive": true },
-  { "code": "KITT_RESET", "reward": "Stat Reset", "isActive": false }
+  { "code": "SUB2GAMERROBOT_EXP1", "reward": "2x EXP (30 min)", "isActive": true },
+  { "code": "SUB2UNCLEKIZARU", "reward": "Stat Reset", "isActive": true },
+  { "code": "SUB2DAIGROCK", "reward": "2x EXP (15 min)", "isActive": true },
+  { "code": "AXIORE", "reward": "2x EXP (20 min)", "isActive": true },
+  { "code": "TANTAIGAMING", "reward": "2x EXP (15 min)", "isActive": true },
+
+  { "code": "KITT_RESET", "reward": "Stat Reset", "isActive": false },
+  { "code": "SECRET_ADMIN", "reward": "2x EXP", "isActive": false },
+  { "code": "RESET_5B", "reward": "Stat Reset", "isActive": false },
+  { "code": "EXP_5B", "reward": "2x EXP", "isActive": false }
 ]
