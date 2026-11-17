@@ -6,7 +6,8 @@
     "rarity": "Mythical",
     "demand": 5,
     "permanent": 4900000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Kitsune",
@@ -15,7 +16,8 @@
     "rarity": "Mythical",
     "demand": 5,
     "permanent": 3900000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Magnet",
@@ -24,7 +26,8 @@
     "rarity": "Mythical",
     "demand": 4,
     "permanent": 3400000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Control",
@@ -33,14 +36,16 @@
     "rarity": "Mythical",
     "demand": 4,
     "permanent": 3900000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Venom",
     "value": 90000000,
     "imageName": "venom",
     "rarity": "Mythical",
-    "demand": 5
+    "demand": 5,
+    "category": "Fruit"
   },
   {
     "name": "Tiger",
@@ -48,7 +53,8 @@
     "imageName": "leopard",
     "rarity": "Mythical",
     "demand": 4,
-    "permanent": 2900000000
+    "permanent": 2900000000,
+    "category": "Fruit"
   },
   {
     "name": "Yeti",
@@ -56,7 +62,8 @@
     "imageName": "yeti",
     "rarity": "Mythical",
     "demand": 3,
-    "permanent": 2900000000
+    "permanent": 2900000000,
+    "category": "Fruit"
   },
   {
     "name": "Gas",
@@ -64,7 +71,8 @@
     "imageName": "gas",
     "rarity": "Mythical",
     "demand": 5,
-    "permanent": 2300000000
+    "permanent": 2300000000,
+    "category": "Fruit"
   },
   {
     "name": "Dough",
@@ -72,7 +80,8 @@
     "imageName": "dough",
     "rarity": "Mythical",
     "demand": 5,
-    "permanent": 2200000000
+    "permanent": 2200000000,
+    "category": "Fruit"
   },
   {
     "name": "T-Rex",
@@ -81,7 +90,8 @@
     "rarity": "Mythical",
     "demand": 4,
     "permanent": 2100000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Lightning",
@@ -90,7 +100,8 @@
     "rarity": "Mythical",
     "demand": 3,
     "permanent": 1800000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Spirit",
@@ -99,7 +110,8 @@
     "rarity": "Mythical",
     "demand": 4,
     "permanent": 2400000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Mammoth",
@@ -108,7 +120,8 @@
     "rarity": "Mythical",
     "demand": 3,
     "permanent": 2100000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Gravity",
@@ -117,7 +130,8 @@
     "rarity": "Mythical",
     "demand": 3,
     "permanent": 2100000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Pain",
@@ -126,7 +140,8 @@
     "rarity": "Legendary",
     "demand": 3,
     "permanent": 1900000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Portal",
@@ -134,7 +149,8 @@
     "imageName": "portal",
     "rarity": "Legendary",
     "demand": 5,
-    "permanent": 1700000000
+    "permanent": 1700000000,
+    "category": "Fruit"
   },
   {
     "name": "Buddha",
@@ -142,7 +158,8 @@
     "imageName": "buddha",
     "rarity": "Legendary",
     "demand": 5,
-    "permanent": 1300000000
+    "permanent": 1300000000,
+    "category": "Fruit"
   },
   {
     "name": "Shadow",
@@ -151,7 +168,8 @@
     "rarity": "Mythical",
     "demand": 3,
     "permanent": 2200000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Blizzard",
@@ -160,7 +178,8 @@
     "rarity": "Legendary",
     "demand": 3,
     "permanent": 2000000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Phoenix",
@@ -169,7 +188,8 @@
     "rarity": "Legendary",
     "demand": 2,
     "permanent": 1700000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Sound",
@@ -178,7 +198,8 @@
     "rarity": "Legendary",
     "demand": 2,
     "permanent": 1600000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Creation",
@@ -187,7 +208,8 @@
     "rarity": "Legendary",
     "demand": 1,
     "permanent": 1400000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Spider",
@@ -196,7 +218,8 @@
     "rarity": "Legendary",
     "demand": 1,
     "permanent": 1500000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Love",
@@ -205,7 +228,8 @@
     "rarity": "Legendary",
     "demand": 2,
     "permanent": 1400000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Magma",
@@ -213,7 +237,8 @@
     "imageName": "magma",
     "rarity": "Rare",
     "demand": 3,
-    "permanent": 840000000
+    "permanent": 840000000,
+    "category": "Fruit"
   },
   {
     "name": "Quake",
@@ -222,7 +247,8 @@
     "rarity": "Rare",
     "demand": 1,
     "permanent": 1100000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Diamond",
@@ -231,7 +257,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 600000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Ghost",
@@ -239,7 +266,8 @@
     "imageName": "ghost",
     "rarity": "Rare",
     "demand": 1,
-    "permanent": 795000000
+    "permanent": 795000000,
+    "category": "Fruit"
   },
   {
     "name": "Light",
@@ -248,7 +276,8 @@
     "rarity": "Rare",
     "demand": 1,
     "permanent": 690000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Eagle",
@@ -257,7 +286,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 585000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Rubber",
@@ -266,7 +296,8 @@
     "rarity": "Rare",
     "demand": 1,
     "permanent": 750000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Ice",
@@ -275,7 +306,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 450000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Sand",
@@ -284,7 +316,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 510000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Dark",
@@ -293,7 +326,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 570000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Flame",
@@ -302,7 +336,8 @@
     "rarity": "Uncommon",
     "demand": 1,
     "permanent": 330000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Chop",
@@ -311,7 +346,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 5000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Spike",
@@ -320,7 +356,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 120000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Smoke",
@@ -329,7 +366,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 90000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Bomb",
@@ -338,7 +376,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 70000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Spring",
@@ -347,7 +386,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 50000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Blade",
@@ -356,7 +396,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 20000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Spin",
@@ -365,7 +406,8 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 15000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
   },
   {
     "name": "Rocket",
@@ -374,6 +416,403 @@
     "rarity": "Common",
     "demand": 1,
     "permanent": 10000000,
-    "trend": "stable"
+    "trend": "stable",
+    "category": "Fruit"
+  },
+  {
+    "name": "Galaxy Kitsune",
+    "value": 10260000000,
+    "imageName": "kitsune",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Crimson Kitsune",
+    "value": 7310000000,
+    "imageName": "kitsune",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Ember Dragon",
+    "value": 6790000000,
+    "imageName": "dragon",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Purple Lightning",
+    "value": 6260000000,
+    "imageName": "rumble",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "East Dragon",
+    "value": 2500000000,
+    "imageName": "dragon",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Super Spirit Pain",
+    "value": 2770000000,
+    "imageName": "pain",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Arcsteel Magnet",
+    "value": 2130000000,
+    "imageName": "magnet",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Divine Portal",
+    "value": 2060000000,
+    "imageName": "portal",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Red Lightning",
+    "value": 2010000000,
+    "imageName": "rumble",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Dog Blade",
+    "value": 1720000000,
+    "imageName": "blade",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Runic Fiend",
+    "value": 1530000000,
+    "imageName": "yeti",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Fiend Yeti",
+    "value": 1030000000,
+    "imageName": "yeti",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Werewolf Tiger",
+    "value": 1000000000,
+    "imageName": "leopard",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Celestial Pain",
+    "value": 943330000,
+    "imageName": "pain",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Sadness Pain",
+    "value": 733330000,
+    "imageName": "pain",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Azura Bomb",
+    "value": 496660000,
+    "imageName": "bomb",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Nuclear Bomb",
+    "value": 475000000,
+    "imageName": "bomb",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Thermite Bomb",
+    "value": 428330000,
+    "imageName": "bomb",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Frustration Pain",
+    "value": 360830000,
+    "imageName": "pain",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Matrix Eagle",
+    "value": 325000000,
+    "imageName": "falcon",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Starlight Gravity",
+    "value": 318330000,
+    "imageName": "gravity",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Requiem Eagle",
+    "value": 205000000,
+    "imageName": "falcon",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Green Lightning",
+    "value": 195000000,
+    "imageName": "rumble",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Rose Quartz Diamond",
+    "value": 190830000,
+    "imageName": "diamond",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Emerald Diamond",
+    "value": 164160000,
+    "imageName": "diamond",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Yellow Lightning",
+    "value": 130000000,
+    "imageName": "rumble",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Ruby Diamond",
+    "value": 90830000,
+    "imageName": "diamond",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Hellfire Gas",
+    "value": 85000000,
+    "imageName": "gas",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Torment Pain",
+    "value": 83330000,
+    "imageName": "pain",
+    "rarity": "Mythical",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Glacier Eagle",
+    "value": 23330000,
+    "imageName": "falcon",
+    "rarity": "Mythical",
+    "demand": 2,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Scarlet Ghost",
+    "value": 20830000,
+    "imageName": "ghost",
+    "rarity": "Mythical",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Celebration Bomb",
+    "value": 13330000,
+    "imageName": "bomb",
+    "rarity": "Mythical",
+    "demand": 2,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Topaz Diamond",
+    "value": 10830000,
+    "imageName": "diamond",
+    "rarity": "Mythical",
+    "demand": 2,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Lime Blade",
+    "value": 10000000,
+    "imageName": "blade",
+    "rarity": "Mythical",
+    "demand": 2,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
+    "name": "Fruit Notifier",
+    "value": 3390000000,
+    "imageName": "fruit-notifier",
+    "rarity": "Legendary",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "bell.badge.fill"
+  },
+  {
+    "name": "3x Mythical Scroll",
+    "value": 1190000000,
+    "imageName": "3x-mythical-scroll",
+    "rarity": "Legendary",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "scroll.fill"
+  },
+  {
+    "name": "Dark Blade",
+    "value": 1080000000,
+    "imageName": "dark-blade",
+    "rarity": "Legendary",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "bolt.horizontal.fill"
+  },
+  {
+    "name": "5x Legendary Scroll",
+    "value": 490000000,
+    "imageName": "5x-legendary-scroll",
+    "rarity": "Legendary",
+    "demand": 2,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "scroll"
+  },
+  {
+    "name": "2x Mastery",
+    "value": 400000000,
+    "imageName": "2x-mastery",
+    "rarity": "Legendary",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "bolt.fill"
+  },
+  {
+    "name": "2x Money",
+    "value": 393330000,
+    "imageName": "2x-money",
+    "rarity": "Legendary",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "dollarsign.circle.fill"
+  },
+  {
+    "name": "+1 Fruit Storage",
+    "value": 351660000,
+    "imageName": "+1-fruit-storage",
+    "rarity": "Legendary",
+    "demand": 4,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "archivebox.fill"
+  },
+  {
+    "name": "2x Boss Drops",
+    "value": 278330000,
+    "imageName": "2x-boss-drops",
+    "rarity": "Legendary",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "gift.fill"
+  },
+  {
+    "name": "Fast Boats",
+    "value": 261660000,
+    "imageName": "fast-boats",
+    "rarity": "Legendary",
+    "demand": 3,
+    "trend": "stable",
+    "category": "Gamepass",
+    "icon": "sailboat.fill"
   }
 ]
