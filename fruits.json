@@ -1,41 +1,303 @@
 [
-  { "name": "Yeti", "value": 115000000, "imageName": "yeti" },
-  { "name": "Kitsune", "value": 130000000, "imageName": "kitsune" },
-  { "name": "Dragon", "value": 90000000, "imageName": "dragon" },
-  { "name": "Gas", "value": 70000000, "imageName": "gas" },
-  { "name": "Leopard", "value": 45000000, "imageName": "leopard" },
-  { "name": "Dough", "value": 30000000, "imageName": "dough" },
-  { "name": "T-Rex", "value": 25000000, "imageName": "t-rex" },
-  { "name": "Mammoth", "value": 12000000, "imageName": "mammoth" },
-  { "name": "Spirit", "value": 10000000, "imageName": "spirit" },
-  { "name": "Venom", "value": 9000000, "imageName": "venom" },
-  { "name": "Control", "value": 8000000, "imageName": "control" },
-  { "name": "Shadow", "value": 7000000, "imageName": "shadow" },
-  { "name": "Rumble", "value": 7000000, "imageName": "rumble" },
-  { "name": "Portal", "value": 10000000, "imageName": "portal" },
-  { "name": "Buddha", "value": 7000000, "imageName": "buddha" },
-  { "name": "Blizzard", "value": 5000000, "imageName": "blizzard" },
-  { "name": "Pain", "value": 4000000, "imageName": "pain" },
-  { "name": "Sound", "value": 4000000, "imageName": "sound" },
-  { "name": "Phoenix", "value": 3000000, "imageName": "phoenix" },
-  { "name": "Spider", "value": 3000000, "imageName": "spider" },
-  { "name": "Love", "value": 1500000, "imageName": "love" },
-  { "name": "Magma", "value": 1200000, "imageName": "magma" },
-  { "name": "Quake", "value": 1000000, "imageName": "quake" },
-  { "name": "Ghost", "value": 800000, "imageName": "ghost" },
-  { "name": "Rubber", "value": 700000, "imageName": "rubber" },
-  { "name": "Light", "value": 800000, "imageName": "light" },
-  { "name": "Diamond", "value": 600000, "imageName": "diamond" },
-  { "name": "Dark", "value": 500000, "imageName": "dark" },
-  { "name": "Sand", "value": 420000, "imageName": "sand" },
-  { "name": "Ice", "value": 350000, "imageName": "ice" },
-  { "name": "Falcon", "value": 300000, "imageName": "falcon" },
-  { "name": "Flame", "value": 250000, "imageName": "flame" },
-  { "name": "Spike", "value": 180000, "imageName": "spike" },
-  { "name": "Smoke", "value": 100000, "imageName": "smoke" },
-  { "name": "Bomb", "value": 80000, "imageName": "bomb" },
-  { "name": "Spring", "value": 60000, "imageName": "spring" },
-  { "name": "Chop", "value": 30000, "imageName": "chop" },
-  { "name": "Spin", "value": 7500, "imageName": "spin" },
-  { "name": "Rocket", "value": 5000, "imageName": "rocket" }
+  {
+    "name": "Dragon",
+    "value": 2700000000,
+    "imageName": "dragon",
+    "rarity": "Mythical",
+    "demand": 5
+  },
+  {
+    "name": "Kitsune",
+    "value": 450000000,
+    "imageName": "kitsune",
+    "rarity": "Mythical",
+    "demand": 5
+  },
+  {
+    "name": "Magnet",
+    "value": 390000000,
+    "imageName": "magnet",
+    "rarity": "Mythical",
+    "demand": 4
+  },
+  {
+    "name": "Control",
+    "value": 90000000,
+    "imageName": "control",
+    "rarity": "Mythical",
+    "demand": 4
+  },
+  {
+    "name": "Venom",
+    "value": 90000000,
+    "imageName": "venom",
+    "rarity": "Mythical",
+    "demand": 5
+  },
+  {
+    "name": "Tiger",
+    "value": 80000000,
+    "imageName": "leopard",
+    "rarity": "Mythical",
+    "demand": 4
+  },
+  {
+    "name": "Yeti",
+    "value": 70000000,
+    "imageName": "yeti",
+    "rarity": "Mythical",
+    "demand": 3
+  },
+  {
+    "name": "Gas",
+    "value": 60000000,
+    "imageName": "gas",
+    "rarity": "Mythical",
+    "demand": 5
+  },
+  {
+    "name": "Dough",
+    "value": 30000000,
+    "imageName": "dough",
+    "rarity": "Mythical",
+    "demand": 5
+  },
+  {
+    "name": "T-Rex",
+    "value": 20000000,
+    "imageName": "t-rex",
+    "rarity": "Mythical",
+    "demand": 4
+  },
+  {
+    "name": "Lightning",
+    "value": 20000000,
+    "imageName": "rumble",
+    "rarity": "Mythical",
+    "demand": 3
+  },
+  {
+    "name": "Spirit",
+    "value": 10000000,
+    "imageName": "spirit",
+    "rarity": "Mythical",
+    "demand": 4
+  },
+  {
+    "name": "Mammoth",
+    "value": 10000000,
+    "imageName": "mammoth",
+    "rarity": "Mythical",
+    "demand": 3
+  },
+  {
+    "name": "Gravity",
+    "value": 10000000,
+    "imageName": "gravity",
+    "rarity": "Mythical",
+    "demand": 3
+  },
+  {
+    "name": "Pain",
+    "value": 10000000,
+    "imageName": "pain",
+    "rarity": "Legendary",
+    "demand": 3
+  },
+  {
+    "name": "Portal",
+    "value": 10000000,
+    "imageName": "portal",
+    "rarity": "Legendary",
+    "demand": 5
+  },
+  {
+    "name": "Buddha",
+    "value": 10000000,
+    "imageName": "buddha",
+    "rarity": "Legendary",
+    "demand": 5
+  },
+  {
+    "name": "Shadow",
+    "value": 6500000,
+    "imageName": "shadow",
+    "rarity": "Mythical",
+    "demand": 3
+  },
+  {
+    "name": "Blizzard",
+    "value": 5000000,
+    "imageName": "blizzard",
+    "rarity": "Legendary",
+    "demand": 3
+  },
+  {
+    "name": "Phoenix",
+    "value": 2800000,
+    "imageName": "phoenix",
+    "rarity": "Legendary",
+    "demand": 2
+  },
+  {
+    "name": "Sound",
+    "value": 2500000,
+    "imageName": "sound",
+    "rarity": "Legendary",
+    "demand": 2
+  },
+  {
+    "name": "Creation",
+    "value": 2500000,
+    "imageName": "creation",
+    "rarity": "Legendary",
+    "demand": 1
+  },
+  {
+    "name": "Spider",
+    "value": 1500000,
+    "imageName": "spider",
+    "rarity": "Legendary",
+    "demand": 1
+  },
+  {
+    "name": "Love",
+    "value": 1500000,
+    "imageName": "love",
+    "rarity": "Legendary",
+    "demand": 2
+  },
+  {
+    "name": "Magma",
+    "value": 1100000,
+    "imageName": "magma",
+    "rarity": "Rare",
+    "demand": 3
+  },
+  {
+    "name": "Quake",
+    "value": 1000000,
+    "imageName": "quake",
+    "rarity": "Rare",
+    "demand": 1
+  },
+  {
+    "name": "Diamond",
+    "value": 1000000,
+    "imageName": "diamond",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Ghost",
+    "value": 800000,
+    "imageName": "ghost",
+    "rarity": "Rare",
+    "demand": 1
+  },
+  {
+    "name": "Light",
+    "value": 800000,
+    "imageName": "light",
+    "rarity": "Rare",
+    "demand": 1
+  },
+  {
+    "name": "Eagle",
+    "value": 800000,
+    "imageName": "falcon",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Rubber",
+    "value": 700000,
+    "imageName": "rubber",
+    "rarity": "Rare",
+    "demand": 1
+  },
+  {
+    "name": "Ice",
+    "value": 550000,
+    "imageName": "ice",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Sand",
+    "value": 420000,
+    "imageName": "sand",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Dark",
+    "value": 400000,
+    "imageName": "dark",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Flame",
+    "value": 250000,
+    "imageName": "flame",
+    "rarity": "Uncommon",
+    "demand": 1
+  },
+  {
+    "name": "Chop",
+    "value": 200000,
+    "imageName": "chop",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Spike",
+    "value": 180000,
+    "imageName": "spike",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Smoke",
+    "value": 100000,
+    "imageName": "smoke",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Bomb",
+    "value": 80000,
+    "imageName": "bomb",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Spring",
+    "value": 60000,
+    "imageName": "spring",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Blade",
+    "value": 50000,
+    "imageName": "blade",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Spin",
+    "value": 7500,
+    "imageName": "spin",
+    "rarity": "Common",
+    "demand": 1
+  },
+  {
+    "name": "Rocket",
+    "value": 5000,
+    "imageName": "rocket",
+    "rarity": "Common",
+    "demand": 1
+  }
 ]

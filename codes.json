@@ -1,15 +1,152 @@
 [
-  { "code": "ADMINFIGHT", "reward": "2x EXP (20 min)", "isActive": true },
-  { "code": "GIFTING_HOURS", "reward": "2x EXP (20 min)", "isActive": true },
-  { "code": "NOMOREHACK", "reward": "Stat Reset", "isActive": true },
-  { "code": "SUB2GAMERROBOT_EXP1", "reward": "2x EXP (30 min)", "isActive": true },
-  { "code": "SUB2UNCLEKIZARU", "reward": "Stat Reset", "isActive": true },
-  { "code": "SUB2DAIGROCK", "reward": "2x EXP (15 min)", "isActive": true },
-  { "code": "AXIORE", "reward": "2x EXP (20 min)", "isActive": true },
-  { "code": "TANTAIGAMING", "reward": "2x EXP (15 min)", "isActive": true },
-
-  { "code": "KITT_RESET", "reward": "Stat Reset", "isActive": false },
-  { "code": "SECRET_ADMIN", "reward": "2x EXP", "isActive": false },
-  { "code": "RESET_5B", "reward": "Stat Reset", "isActive": false },
-  { "code": "EXP_5B", "reward": "2x EXP", "isActive": false }
+  {
+    "code": "EASTEREXP",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "LIGHTNINGABUSE",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "KITT_RESET",
+    "reward": "Stat Reset",
+    "isActive": true
+  },
+  {
+    "code": "Sub2CaptainMaui",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "Axiore",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "TantaiGaming",
+    "reward": "2x EXP (15 min)",
+    "isActive": true
+  },
+  {
+    "code": "StrawHatMaine",
+    "reward": "2x EXP (15 min)",
+    "isActive": true
+  },
+  {
+    "code": "Sub2OfficialNoobie",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "Fudd10",
+    "reward": "$1 Beli",
+    "isActive": true
+  },
+  {
+    "code": "Bignews",
+    "reward": "\"BIGNEWS\" title",
+    "isActive": true
+  },
+  {
+    "code": "TheGreatAce",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "kittgaming",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "Enyu_is_Pro",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "Magicbus",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "JCWK",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "Bluxxy",
+    "reward": "2x EXP (20 min)",
+    "isActive": true
+  },
+  {
+    "code": "fudd10_v2",
+    "reward": "$2 Beli",
+    "isActive": true
+  },
+  {
+    "code": "Sub2NoobMaster123",
+    "reward": "2x EXP (15 min)",
+    "isActive": true
+  },
+  {
+    "code": "Sub2UncleKizaru",
+    "reward": "Stat Reset",
+    "isActive": true
+  },
+  {
+    "code": "Sub2Daigrock",
+    "reward": "2x EXP (15 min)",
+    "isActive": true
+  },
+  {
+    "code": "ADMINFIGHT",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "GIFTING_HOURS",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "NOMOREHACK",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "SUB2GAMERROBOT_EXP1",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "1LOSTADMIN",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "DEVSCOOKING",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "EARN_FRUITS",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "NOEXPLOITER",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "NOOB2ADMIN",
+    "reward": "Expired",
+    "isActive": false
+  },
+  {
+    "code": "ADMINHACKED",
+    "reward": "Expired",
+    "isActive": false
+  }
 ]
