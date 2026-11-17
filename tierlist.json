@@ -1,0 +1,80 @@
+{
+  "updated": "2026-06-17",
+  "source": "allthings.how (Update 30 Magnet added by us)",
+  "tiers": [
+    {
+      "tier": "S",
+      "fruits": [
+        "Dough",
+        "Dragon",
+        "Kitsune",
+        "Tiger",
+        "Gas",
+        "Portal",
+        "Spirit",
+        "Mammoth",
+        "Yeti",
+        "Magnet"
+      ]
+    },
+    {
+      "tier": "A",
+      "fruits": [
+        "Buddha",
+        "Gravity",
+        "Light",
+        "Lightning",
+        "Magma",
+        "Pain",
+        "T-Rex",
+        "Venom"
+      ]
+    },
+    {
+      "tier": "B",
+      "fruits": [
+        "Blizzard",
+        "Control",
+        "Ice",
+        "Quake",
+        "Phoenix",
+        "Shadow",
+        "Sound"
+      ]
+    },
+    {
+      "tier": "C",
+      "fruits": [
+        "Love",
+        "Rubber",
+        "Smoke",
+        "Blade",
+        "Sand"
+      ]
+    },
+    {
+      "tier": "D",
+      "fruits": [
+        "Spin",
+        "Spike",
+        "Spring",
+        "Rocket",
+        "Bomb"
+      ]
+    }
+  ],
+  "bestPvP": [
+    "Dough",
+    "Kitsune",
+    "Portal",
+    "Spirit",
+    "Tiger"
+  ],
+  "bestGrinding": [
+    "Buddha",
+    "Mammoth",
+    "Magma",
+    "Light",
+    "Dragon"
+  ]
+}

@@ -7,7 +7,10 @@
     "demand": 5,
     "permanent": 4900000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 15000000,
+    "robux": 5000
   },
   {
     "name": "Kitsune",
@@ -17,7 +20,10 @@
     "demand": 5,
     "permanent": 3900000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 8000000,
+    "robux": 4000
   },
   {
     "name": "Magnet",
@@ -28,7 +34,10 @@
     "permanent": 3400000000,
     "trend": "stable",
     "category": "Fruit",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/magnet.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/magnet.png",
+    "type": "Natural",
+    "beli": 6000000,
+    "robux": 3500
   },
   {
     "name": "Control",
@@ -38,7 +47,10 @@
     "demand": 4,
     "permanent": 3900000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 3200000,
+    "robux": 2500
   },
   {
     "name": "Venom",
@@ -46,7 +58,10 @@
     "imageName": "venom",
     "rarity": "Mythical",
     "demand": 5,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 3000000,
+    "robux": 2450
   },
   {
     "name": "Tiger",
@@ -55,7 +70,10 @@
     "rarity": "Mythical",
     "demand": 4,
     "permanent": 2900000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 5000000,
+    "robux": 3000
   },
   {
     "name": "Yeti",
@@ -64,7 +82,10 @@
     "rarity": "Mythical",
     "demand": 3,
     "permanent": 2900000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 8000000,
+    "robux": 3000
   },
   {
     "name": "Gas",
@@ -73,7 +94,10 @@
     "rarity": "Mythical",
     "demand": 5,
     "permanent": 2300000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 3200000,
+    "robux": 2500
   },
   {
     "name": "Dough",
@@ -82,7 +106,10 @@
     "rarity": "Mythical",
     "demand": 5,
     "permanent": 2200000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 2800000,
+    "robux": 2400
   },
   {
     "name": "T-Rex",
@@ -92,7 +119,10 @@
     "demand": 4,
     "permanent": 2100000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 2700000,
+    "robux": 2350
   },
   {
     "name": "Lightning",
@@ -102,7 +132,10 @@
     "demand": 3,
     "permanent": 1800000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 2100000,
+    "robux": 2100
   },
   {
     "name": "Spirit",
@@ -112,7 +145,10 @@
     "demand": 4,
     "permanent": 2400000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 3400000,
+    "robux": 2550
   },
   {
     "name": "Mammoth",
@@ -122,7 +158,10 @@
     "demand": 3,
     "permanent": 2100000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 2700000,
+    "robux": 2350
   },
   {
     "name": "Gravity",
@@ -133,7 +172,10 @@
     "permanent": 2100000000,
     "trend": "stable",
     "category": "Fruit",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/gravity.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/gravity.png",
+    "type": "Natural",
+    "beli": 2500000,
+    "robux": 2300
   },
   {
     "name": "Pain",
@@ -143,7 +185,10 @@
     "demand": 3,
     "permanent": 1900000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 2300000,
+    "robux": 2200
   },
   {
     "name": "Portal",
@@ -152,7 +197,10 @@
     "rarity": "Legendary",
     "demand": 5,
     "permanent": 1700000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 1900000,
+    "robux": 2000
   },
   {
     "name": "Buddha",
@@ -161,7 +209,10 @@
     "rarity": "Legendary",
     "demand": 5,
     "permanent": 1300000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 1200000,
+    "robux": 1650
   },
   {
     "name": "Shadow",
@@ -171,7 +222,10 @@
     "demand": 3,
     "permanent": 2200000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 2900000,
+    "robux": 2425
   },
   {
     "name": "Blizzard",
@@ -181,7 +235,10 @@
     "demand": 3,
     "permanent": 2000000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 2400000,
+    "robux": 2250
   },
   {
     "name": "Phoenix",
@@ -191,7 +248,10 @@
     "demand": 2,
     "permanent": 1700000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 1800000,
+    "robux": 2000
   },
   {
     "name": "Sound",
@@ -201,7 +261,10 @@
     "demand": 2,
     "permanent": 1600000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 1700000,
+    "robux": 1900
   },
   {
     "name": "Creation",
@@ -212,7 +275,10 @@
     "permanent": 1400000000,
     "trend": "stable",
     "category": "Fruit",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/creation.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/creation.png",
+    "type": "Natural",
+    "beli": 1400000,
+    "robux": 1750
   },
   {
     "name": "Spider",
@@ -222,7 +288,10 @@
     "demand": 1,
     "permanent": 1500000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 1500000,
+    "robux": 1800
   },
   {
     "name": "Love",
@@ -232,7 +301,10 @@
     "demand": 2,
     "permanent": 1400000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 1300000,
+    "robux": 1700
   },
   {
     "name": "Magma",
@@ -241,7 +313,10 @@
     "rarity": "Rare",
     "demand": 3,
     "permanent": 840000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 960000,
+    "robux": 1300
   },
   {
     "name": "Quake",
@@ -251,7 +326,10 @@
     "demand": 1,
     "permanent": 1100000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 1000000,
+    "robux": 1500
   },
   {
     "name": "Diamond",
@@ -261,7 +339,10 @@
     "demand": 1,
     "permanent": 600000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 600000,
+    "robux": 1000
   },
   {
     "name": "Ghost",
@@ -270,7 +351,10 @@
     "rarity": "Rare",
     "demand": 1,
     "permanent": 795000000,
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 940000,
+    "robux": 1275
   },
   {
     "name": "Light",
@@ -280,7 +364,10 @@
     "demand": 1,
     "permanent": 690000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 650000,
+    "robux": 1100
   },
   {
     "name": "Eagle",
@@ -290,7 +377,10 @@
     "demand": 1,
     "permanent": 585000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Beast",
+    "beli": 550000,
+    "robux": 975
   },
   {
     "name": "Rubber",
@@ -300,7 +390,10 @@
     "demand": 1,
     "permanent": 750000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 750000,
+    "robux": 1200
   },
   {
     "name": "Ice",
@@ -310,7 +403,10 @@
     "demand": 1,
     "permanent": 450000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 350000,
+    "robux": 750
   },
   {
     "name": "Sand",
@@ -320,7 +416,10 @@
     "demand": 1,
     "permanent": 510000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 420000,
+    "robux": 850
   },
   {
     "name": "Dark",
@@ -330,7 +429,10 @@
     "demand": 1,
     "permanent": 570000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 500000,
+    "robux": 950
   },
   {
     "name": "Flame",
@@ -340,7 +442,10 @@
     "demand": 1,
     "permanent": 330000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 250000,
+    "robux": 550
   },
   {
     "name": "Chop",
@@ -350,7 +455,10 @@
     "demand": 1,
     "permanent": 5000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 30000,
+    "robux": 100
   },
   {
     "name": "Spike",
@@ -360,7 +468,10 @@
     "demand": 1,
     "permanent": 120000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 180000,
+    "robux": 350
   },
   {
     "name": "Smoke",
@@ -370,7 +481,10 @@
     "demand": 1,
     "permanent": 90000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Elemental",
+    "beli": 100000,
+    "robux": 250
   },
   {
     "name": "Bomb",
@@ -380,7 +494,10 @@
     "demand": 1,
     "permanent": 70000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 80000,
+    "robux": 220
   },
   {
     "name": "Spring",
@@ -390,7 +507,10 @@
     "demand": 1,
     "permanent": 50000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 60000,
+    "robux": 180
   },
   {
     "name": "Blade",
@@ -401,7 +521,10 @@
     "permanent": 20000000,
     "trend": "stable",
     "category": "Fruit",
-    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/blade.png"
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/blade.png",
+    "type": "Natural",
+    "beli": 30000,
+    "robux": 100
   },
   {
     "name": "Spin",
@@ -411,7 +534,10 @@
     "demand": 1,
     "permanent": 15000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 7500,
+    "robux": 75
   },
   {
     "name": "Rocket",
@@ -421,7 +547,10 @@
     "demand": 1,
     "permanent": 10000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "type": "Natural",
+    "beli": 5000,
+    "robux": 50
   },
   {
     "name": "Galaxy Kitsune",
