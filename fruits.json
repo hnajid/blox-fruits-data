@@ -27,7 +27,8 @@
     "demand": 4,
     "permanent": 3400000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/magnet.png"
   },
   {
     "name": "Control",
@@ -131,7 +132,8 @@
     "demand": 3,
     "permanent": 2100000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/gravity.png"
   },
   {
     "name": "Pain",
@@ -209,7 +211,8 @@
     "demand": 1,
     "permanent": 1400000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/creation.png"
   },
   {
     "name": "Spider",
@@ -397,7 +400,8 @@
     "demand": 1,
     "permanent": 20000000,
     "trend": "stable",
-    "category": "Fruit"
+    "category": "Fruit",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/blade.png"
   },
   {
     "name": "Spin",
@@ -480,7 +484,8 @@
     "rarity": "Mythical",
     "demand": 5,
     "trend": "stable",
-    "category": "Skin"
+    "category": "Skin",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/magnet.png"
   },
   {
     "name": "Divine Portal",
@@ -507,7 +512,8 @@
     "rarity": "Mythical",
     "demand": 4,
     "trend": "stable",
-    "category": "Skin"
+    "category": "Skin",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/blade.png"
   },
   {
     "name": "Runic Fiend",
@@ -606,7 +612,8 @@
     "rarity": "Mythical",
     "demand": 4,
     "trend": "stable",
-    "category": "Skin"
+    "category": "Skin",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/gravity.png"
   },
   {
     "name": "Requiem Eagle",
@@ -723,7 +730,8 @@
     "rarity": "Mythical",
     "demand": 2,
     "trend": "stable",
-    "category": "Skin"
+    "category": "Skin",
+    "imageURL": "https://raw.githubusercontent.com/hnajid/blox-fruits-data/main/images/blade.png"
   },
   {
     "name": "Fruit Notifier",
