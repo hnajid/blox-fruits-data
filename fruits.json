@@ -4,28 +4,36 @@
     "value": 2700000000,
     "imageName": "dragon",
     "rarity": "Mythical",
-    "demand": 5
+    "demand": 5,
+    "permanent": 4900000000,
+    "trend": "stable"
   },
   {
     "name": "Kitsune",
     "value": 450000000,
     "imageName": "kitsune",
     "rarity": "Mythical",
-    "demand": 5
+    "demand": 5,
+    "permanent": 3900000000,
+    "trend": "stable"
   },
   {
     "name": "Magnet",
     "value": 390000000,
     "imageName": "magnet",
     "rarity": "Mythical",
-    "demand": 4
+    "demand": 4,
+    "permanent": 3400000000,
+    "trend": "stable"
   },
   {
     "name": "Control",
     "value": 90000000,
     "imageName": "control",
     "rarity": "Mythical",
-    "demand": 4
+    "demand": 4,
+    "permanent": 3900000000,
+    "trend": "stable"
   },
   {
     "name": "Venom",
@@ -39,265 +47,333 @@
     "value": 80000000,
     "imageName": "leopard",
     "rarity": "Mythical",
-    "demand": 4
+    "demand": 4,
+    "permanent": 2900000000
   },
   {
     "name": "Yeti",
     "value": 70000000,
     "imageName": "yeti",
     "rarity": "Mythical",
-    "demand": 3
+    "demand": 3,
+    "permanent": 2900000000
   },
   {
     "name": "Gas",
     "value": 60000000,
     "imageName": "gas",
     "rarity": "Mythical",
-    "demand": 5
+    "demand": 5,
+    "permanent": 2300000000
   },
   {
     "name": "Dough",
     "value": 30000000,
     "imageName": "dough",
     "rarity": "Mythical",
-    "demand": 5
+    "demand": 5,
+    "permanent": 2200000000
   },
   {
     "name": "T-Rex",
     "value": 20000000,
     "imageName": "t-rex",
     "rarity": "Mythical",
-    "demand": 4
+    "demand": 4,
+    "permanent": 2100000000,
+    "trend": "stable"
   },
   {
     "name": "Lightning",
     "value": 20000000,
     "imageName": "rumble",
     "rarity": "Mythical",
-    "demand": 3
+    "demand": 3,
+    "permanent": 1800000000,
+    "trend": "stable"
   },
   {
     "name": "Spirit",
     "value": 10000000,
     "imageName": "spirit",
     "rarity": "Mythical",
-    "demand": 4
+    "demand": 4,
+    "permanent": 2400000000,
+    "trend": "stable"
   },
   {
     "name": "Mammoth",
     "value": 10000000,
     "imageName": "mammoth",
     "rarity": "Mythical",
-    "demand": 3
+    "demand": 3,
+    "permanent": 2100000000,
+    "trend": "stable"
   },
   {
     "name": "Gravity",
     "value": 10000000,
     "imageName": "gravity",
     "rarity": "Mythical",
-    "demand": 3
+    "demand": 3,
+    "permanent": 2100000000,
+    "trend": "stable"
   },
   {
     "name": "Pain",
     "value": 10000000,
     "imageName": "pain",
     "rarity": "Legendary",
-    "demand": 3
+    "demand": 3,
+    "permanent": 1900000000,
+    "trend": "stable"
   },
   {
     "name": "Portal",
     "value": 10000000,
     "imageName": "portal",
     "rarity": "Legendary",
-    "demand": 5
+    "demand": 5,
+    "permanent": 1700000000
   },
   {
     "name": "Buddha",
     "value": 10000000,
     "imageName": "buddha",
     "rarity": "Legendary",
-    "demand": 5
+    "demand": 5,
+    "permanent": 1300000000
   },
   {
     "name": "Shadow",
     "value": 6500000,
     "imageName": "shadow",
     "rarity": "Mythical",
-    "demand": 3
+    "demand": 3,
+    "permanent": 2200000000,
+    "trend": "stable"
   },
   {
     "name": "Blizzard",
     "value": 5000000,
     "imageName": "blizzard",
     "rarity": "Legendary",
-    "demand": 3
+    "demand": 3,
+    "permanent": 2000000000,
+    "trend": "stable"
   },
   {
     "name": "Phoenix",
     "value": 2800000,
     "imageName": "phoenix",
     "rarity": "Legendary",
-    "demand": 2
+    "demand": 2,
+    "permanent": 1700000000,
+    "trend": "stable"
   },
   {
     "name": "Sound",
     "value": 2500000,
     "imageName": "sound",
     "rarity": "Legendary",
-    "demand": 2
+    "demand": 2,
+    "permanent": 1600000000,
+    "trend": "stable"
   },
   {
     "name": "Creation",
     "value": 2500000,
     "imageName": "creation",
     "rarity": "Legendary",
-    "demand": 1
+    "demand": 1,
+    "permanent": 1400000000,
+    "trend": "stable"
   },
   {
     "name": "Spider",
     "value": 1500000,
     "imageName": "spider",
     "rarity": "Legendary",
-    "demand": 1
+    "demand": 1,
+    "permanent": 1500000000,
+    "trend": "stable"
   },
   {
     "name": "Love",
     "value": 1500000,
     "imageName": "love",
     "rarity": "Legendary",
-    "demand": 2
+    "demand": 2,
+    "permanent": 1400000000,
+    "trend": "stable"
   },
   {
     "name": "Magma",
     "value": 1100000,
     "imageName": "magma",
     "rarity": "Rare",
-    "demand": 3
+    "demand": 3,
+    "permanent": 840000000
   },
   {
     "name": "Quake",
     "value": 1000000,
     "imageName": "quake",
     "rarity": "Rare",
-    "demand": 1
+    "demand": 1,
+    "permanent": 1100000000,
+    "trend": "stable"
   },
   {
     "name": "Diamond",
     "value": 1000000,
     "imageName": "diamond",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 600000000,
+    "trend": "stable"
   },
   {
     "name": "Ghost",
     "value": 800000,
     "imageName": "ghost",
     "rarity": "Rare",
-    "demand": 1
+    "demand": 1,
+    "permanent": 795000000
   },
   {
     "name": "Light",
     "value": 800000,
     "imageName": "light",
     "rarity": "Rare",
-    "demand": 1
+    "demand": 1,
+    "permanent": 690000000,
+    "trend": "stable"
   },
   {
     "name": "Eagle",
     "value": 800000,
     "imageName": "falcon",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 585000000,
+    "trend": "stable"
   },
   {
     "name": "Rubber",
     "value": 700000,
     "imageName": "rubber",
     "rarity": "Rare",
-    "demand": 1
+    "demand": 1,
+    "permanent": 750000000,
+    "trend": "stable"
   },
   {
     "name": "Ice",
     "value": 550000,
     "imageName": "ice",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 450000000,
+    "trend": "stable"
   },
   {
     "name": "Sand",
     "value": 420000,
     "imageName": "sand",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 510000000,
+    "trend": "stable"
   },
   {
     "name": "Dark",
     "value": 400000,
     "imageName": "dark",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 570000000,
+    "trend": "stable"
   },
   {
     "name": "Flame",
     "value": 250000,
     "imageName": "flame",
     "rarity": "Uncommon",
-    "demand": 1
+    "demand": 1,
+    "permanent": 330000000,
+    "trend": "stable"
   },
   {
     "name": "Chop",
     "value": 200000,
     "imageName": "chop",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 5000000,
+    "trend": "stable"
   },
   {
     "name": "Spike",
     "value": 180000,
     "imageName": "spike",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 120000000,
+    "trend": "stable"
   },
   {
     "name": "Smoke",
     "value": 100000,
     "imageName": "smoke",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 90000000,
+    "trend": "stable"
   },
   {
     "name": "Bomb",
     "value": 80000,
     "imageName": "bomb",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 70000000,
+    "trend": "stable"
   },
   {
     "name": "Spring",
     "value": 60000,
     "imageName": "spring",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 50000000,
+    "trend": "stable"
   },
   {
     "name": "Blade",
     "value": 50000,
     "imageName": "blade",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 20000000,
+    "trend": "stable"
   },
   {
     "name": "Spin",
     "value": 7500,
     "imageName": "spin",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 15000000,
+    "trend": "stable"
   },
   {
     "name": "Rocket",
     "value": 5000,
     "imageName": "rocket",
     "rarity": "Common",
-    "demand": 1
+    "demand": 1,
+    "permanent": 10000000,
+    "trend": "stable"
   }
 ]
