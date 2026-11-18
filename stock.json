@@ -1,19 +1,13 @@
 {
-  "updatedAt": "2026-11-17T16:11:24Z",
+  "updatedAt": "2026-11-18T03:55:00Z",
   "normal": [
-    "Rocket",
-    "Spin",
-    "Blade",
-    "Smoke",
-    "Flame",
-    "Spirit"
+    "Ice",
+    "Portal"
   ],
   "mirage": [
-    "Rocket",
-    "Spin",
-    "Spring",
-    "Eagle",
-    "Diamond",
+    "Blade",
+    "Smoke",
+    "Ice",
     "Light",
     "Magma"
   ],
