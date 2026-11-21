@@ -1,15 +1,14 @@
 {
-  "updatedAt": "2026-11-21T13:10:00Z",
+  "updatedAt": "2026-11-21T18:00:00Z",
   "normal": [
-    "Smoke",
-    "Quake"
+    "Magma"
   ],
   "mirage": [
-    "Flame",
-    "Sand",
-    "Light",
-    "Buddha",
-    "Dough"
+    "Blade",
+    "Smoke",
+    "Spike",
+    "Ice",
+    "Rubber"
   ],
   "normalEveryHours": 4,
   "mirageEveryHours": 2
