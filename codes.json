@@ -5,11 +5,6 @@
     "isActive": true
   },
   {
-    "code": "LIGHTNINGABUSE",
-    "reward": "2x EXP (20 min)",
-    "isActive": true
-  },
-  {
     "code": "KITT_RESET",
     "reward": "Stat Reset",
     "isActive": true
@@ -98,6 +93,11 @@
     "code": "Sub2Daigrock",
     "reward": "2x EXP (15 min)",
     "isActive": true
+  },
+  {
+    "code": "LIGHTNINGABUSE",
+    "reward": "Expired",
+    "isActive": false
   },
   {
     "code": "ADMINFIGHT",

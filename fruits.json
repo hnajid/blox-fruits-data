@@ -554,7 +554,7 @@
   },
   {
     "name": "Galaxy Kitsune",
-    "value": 10260000000,
+    "value": 10360000000,
     "imageName": "kitsune",
     "rarity": "Mythical",
     "demand": 5,
@@ -563,7 +563,7 @@
   },
   {
     "name": "Crimson Kitsune",
-    "value": 7310000000,
+    "value": 7340000000,
     "imageName": "kitsune",
     "rarity": "Mythical",
     "demand": 5,
@@ -572,7 +572,7 @@
   },
   {
     "name": "Ember Dragon",
-    "value": 6790000000,
+    "value": 6820000000,
     "imageName": "dragon",
     "rarity": "Mythical",
     "demand": 5,
@@ -581,7 +581,7 @@
   },
   {
     "name": "Purple Lightning",
-    "value": 6260000000,
+    "value": 6200000000,
     "imageName": "rumble",
     "rarity": "Mythical",
     "demand": 5,
@@ -589,8 +589,17 @@
     "category": "Skin"
   },
   {
+    "name": "West Dragon",
+    "value": 3010000000,
+    "imageName": "dragon",
+    "rarity": "Mythical",
+    "demand": 5,
+    "trend": "stable",
+    "category": "Skin"
+  },
+  {
     "name": "East Dragon",
-    "value": 2500000000,
+    "value": 2510000000,
     "imageName": "dragon",
     "rarity": "Mythical",
     "demand": 5,
@@ -602,13 +611,13 @@
     "value": 2770000000,
     "imageName": "pain",
     "rarity": "Mythical",
-    "demand": 4,
+    "demand": 5,
     "trend": "stable",
     "category": "Skin"
   },
   {
     "name": "Arcsteel Magnet",
-    "value": 2130000000,
+    "value": 2150000000,
     "imageName": "magnet",
     "rarity": "Mythical",
     "demand": 5,
@@ -636,7 +645,7 @@
   },
   {
     "name": "Dog Blade",
-    "value": 1720000000,
+    "value": 1690000000,
     "imageName": "blade",
     "rarity": "Mythical",
     "demand": 4,
@@ -658,13 +667,13 @@
     "value": 1030000000,
     "imageName": "yeti",
     "rarity": "Mythical",
-    "demand": 4,
+    "demand": 5,
     "trend": "stable",
     "category": "Skin"
   },
   {
     "name": "Werewolf Tiger",
-    "value": 1000000000,
+    "value": 986660000,
     "imageName": "leopard",
     "rarity": "Mythical",
     "demand": 4,
@@ -673,7 +682,7 @@
   },
   {
     "name": "Celestial Pain",
-    "value": 943330000,
+    "value": 956660000,
     "imageName": "pain",
     "rarity": "Mythical",
     "demand": 5,
@@ -746,7 +755,7 @@
   },
   {
     "name": "Requiem Eagle",
-    "value": 205000000,
+    "value": 213330000,
     "imageName": "falcon",
     "rarity": "Mythical",
     "demand": 4,
@@ -864,7 +873,7 @@
   },
   {
     "name": "Fruit Notifier",
-    "value": 3390000000,
+    "value": 3360000000,
     "imageName": "fruit-notifier",
     "rarity": "Legendary",
     "demand": 4,
