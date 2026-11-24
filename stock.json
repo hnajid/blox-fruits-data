@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-23T22:01:00Z",
+  "updatedAt": "2026-11-24T11:43:00Z",
   "normal": [
-    "Blade",
+    "Diamond",
     "Spring",
-    "Flame",
-    "Ice",
-    "Buddha",
-    "Creation"
+    "Dark",
+    "Sand",
+    "Rubber"
   ],
   "mirage": [
+    "Dough",
     "Spring",
-    "Sand",
     "Dark",
-    "Creation",
-    "Lightning"
+    "Gravity",
+    "Smoke",
+    "Blade"
   ],
   "normalEveryHours": 4,
   "mirageEveryHours": 2
