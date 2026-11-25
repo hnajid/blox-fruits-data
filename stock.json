@@ -1,21 +1,22 @@
 {
-  "updatedAt": "2026-11-24T22:21:27Z",
+  "updatedAt": "2026-11-25T04:03:00Z",
   "normal": [
-    "Rocket",
-    "Spin",
-    "Bomb",
-    "Dark"
+    "Blade",
+    "Spring",
+    "Smoke",
+    "Ice",
+    "Dark",
+    "Quake",
+    "Buddha"
   ],
   "mirage": [
-    "Rocket",
-    "Spin",
-    "Smoke",
+    "Diamond",
+    "Pain",
+    "Dark",
+    "Sand",
+    "Quake",
     "Spike",
-    "Flame",
-    "Ghost",
-    "Buddha",
-    "Love",
-    "Sound"
+    "Phoenix"
   ],
   "normalEveryHours": 4,
   "mirageEveryHours": 2
