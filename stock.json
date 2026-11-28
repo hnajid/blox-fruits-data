@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-27T00:02:00Z",
+  "updatedAt": "2026-11-28T06:11:24Z",
   "normal": [
-    "Blade",
-    "Spring",
+    "Rocket",
+    "Spin",
     "Ice",
-    "Sand",
     "Light",
-    "Quake",
-    "Spirit"
+    "Love"
   ],
   "mirage": [
+    "Rocket",
+    "Spin",
+    "Blade",
     "Spring",
-    "Sand",
-    "Creation",
-    "Bomb",
     "Flame",
-    "Blade"
+    "Sand",
+    "Dark",
+    "Diamond"
   ],
   "normalEveryHours": 4,
   "mirageEveryHours": 2
